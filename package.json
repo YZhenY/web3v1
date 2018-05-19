@@ -1,5 +1,5 @@
-{ "name": "web3v0",
+{ "name": "web3v1",
     "version": "1.0.0",
-    "description":"web3 version 3",
-    "dependencies": { "web3": "^0.19.1" } 
+    "description":"web3 version 1",
+    "dependencies": { "web3": "^1.0.0-beta.34" } 
 }
